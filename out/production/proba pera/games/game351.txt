@@ -1,0 +1,5 @@
+Player1 vs Player2
+Mon Jul 10 16:19:33 MSK 2023
+white: c1,e1,d2,h2,f4,;
+black: f6,e7,d8,b8,a7,;
+1. 53:44() 55:33(e5) 2. 71:62() 37:26() 3. 62:53()

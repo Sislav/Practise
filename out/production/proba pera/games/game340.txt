@@ -1,0 +1,4 @@
+Player1 vs Player2
+Mon Jul 10 16:19:12 MSK 2023
+white: c1,e1,d2,h2,f4,;
+black: f6,e7,d8,b8,a7,;

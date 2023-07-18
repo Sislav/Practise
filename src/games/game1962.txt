@@ -1,0 +1,4 @@
+Игрок 1 vs Игрок 2
+Thu Jul 13 13:03:37 MSK 2023
+white: a1,;
+black: f2,;
